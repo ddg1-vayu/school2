@@ -172,6 +172,7 @@ DT {
 	max-width: 576px;
 	height: auto;
 	text-align: center;
+	float: center;
 }
 
 input[type=text], input[type=email], textarea {
@@ -191,7 +192,6 @@ input[type=text], input[type=email], textarea {
 	background-color: #2EB82E; /*Green*/
 	color: #F5F5F5; /*White Smoke*/
 	padding: 8px 12px;
-	font-family: "Roboto", Arial, Helvetica, sans-serif;
 	font-size: 18px;
 	text-align: center;
 	text-decoration: none;
