@@ -1,6 +1,6 @@
 HTML {
 	background-color: #034F84; /*Snorkel Blue*/
-	font-family: "Roboto", Arial, Helvetica, sans-serif;
+	font-family: "Lato", Arial, Helvetica, sans-serif;
 	transition: margin-left 0.5s;
 	padding: 30px;
 }
@@ -123,7 +123,7 @@ HTML {
 		text-decoration: none;
 		border: 1px solid;
 		border-radius: 50%;
-		font-size: 17px;
+		font-size: 16px;
 		transition: background-color .5s;
 		margin: 0 4px;
 	}
