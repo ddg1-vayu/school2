@@ -144,14 +144,14 @@ HTML {
 .p {
 	text-decoration: none;
 	color: #F5F5F5; /*White Smoke*/
-	font-size: 21px;
+	font-size: 18px;
 	text-align: justify;
 }
 
 LI {
 	color: #FF6F61; /*Living Coral*/
 	text-decoration: none;
-	font-size: 21px;
+	font-size: 18px;
 	text-align: justify;
 }
 
@@ -162,7 +162,7 @@ LI {
 DT {
 	text-decoration: underline;
 	color: #FFFF00; /*Yellow*/
-	font-size: 21px;
+	font-size: 18px;
 }
 
 .img {
