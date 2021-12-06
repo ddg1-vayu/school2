@@ -1,7 +1,7 @@
 HTML {
 	background-color: #034F84; /*Snorkel Blue*/
 	font-family: "Lato", Arial, Helvetica, sans-serif;
-	transition: margin-left 0.5s;
+	transition: all ease 0.5s;
 	padding: 30px;
 }
 
